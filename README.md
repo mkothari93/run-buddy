@@ -8,6 +8,7 @@ A website that offers fitness training services.
 * CSS
 
 ## Website
+https://mkothari93.github.io/run-buddy/
 
 ## Image of Website
 ![Run Buddy Snapshot](https://user-images.githubusercontent.com/90233589/135796395-08905063-aae2-4690-8fb2-5f3fb0a4fb2c.png)
